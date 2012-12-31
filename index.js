@@ -1,3 +1,6 @@
+var fs = require('fs');
+var path = require('path');
+
 var phantom = require('node-phantom');
 var temp = require('temp');
 
