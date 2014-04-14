@@ -1,7 +1,7 @@
 {
   "name": "rendersvg",
-  "version": "0.0.3",
-  "description": "Renders SVGs using PhantomJS",
+  "version": "0.1.0",
+  "description": "Renders SVGs to PNG, GIF, JPEG, or PDF using PhantomJS",
   "main": "index.js",
   "repository": "https://github.com/tcr/rendersvg",
   "author": "Tim Cameron Ryan",
